@@ -1,2 +1,7 @@
 # BRIGHT_TV_ANALYSIS
- Bright_TV viewership analysis case study using Databricks SQL and Excel. Achieved 100% match rate between viewership logs and user demographics.
+
+EOH case study analyzing BrightTV streaming data using Databricks SQL and Excel.
+
+**Key Achievement:** 100% match rate between viewership logs and user demographics after data cleaning and integration.
+
+**Tech Stack:** Databricks SQL, Excel, Miro, GitHub
