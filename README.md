@@ -1,57 +1,135 @@
-EOH case study analysing Bright TV streaming data using Databricks SQL and Excel.
+# 📺 BrightTV Subscriber Analytics
 
-Key Achievement: 100% match rate between viewership logs and user demographics after data cleaning and integration.
+## 📌 Project Overview
 
---- Project Overview
+This project is an end-to-end data analysis case study focused on Bright TV streaming data. The goal was to analyze viewer behaviour, identify performance trends, and provide strategic recommendations to improve engagement and grow the user base.
 
-Analysed Bright TV viewing data to identify top-performing channels and peak viewing times to help optimize scheduling and content strategy.
+---
 
-Content Recommendation for Low-Traffic Days
+## 🎯 Objectives
 
-Traffic Days Strategy Recommend:
+* Analyze viewership trends and channel performance
+* Identify peak viewing times
+* Understand user demographics and regional distribution
+* Provide data-driven recommendations for growth and retention
 
-Promote Supersport Live highlights and talk shows on low-traffic days
+---
 
-Reason: It has the highest proven viewership at 1,662 sessions
+## 🛠️ Tools & Technologies
 
-Strategy: Repurpose live sport content into analysis shows to maintain engagement when live matches are off.
+* SQL (Databricks) – data querying and analysis
+* Excel – data cleaning, transformation, and pivot tables
+* Miro – project planning and workflow mapping
+* Canva – presentation design
 
-Initiatives to Grow User Base
+---
 
-Key Findings: Gauteng 36.5%, Western Cape 18.5%, KZN 10% dominate usage Northern Cape, Free State, North West <9% combined.
+## 🔍 Data Preparation
 
-Recommendations: Geo-targeted acquisition: Free trials + local partnerships in Northern Cape, Free State, North West
+* Cleaned and integrated multiple datasets (viewership + user demographics)
+* Ensured data consistency and accuracy
 
-Diversify for women: Increase Africa Magic-style local drama to grow female base from 10%
+### ✅ Key Achievement
 
-Upsell heavy users: “Bright TV Family” package - target Gauteng + Western Cape with multi-screen deals. Email campaign: “Add 2 screens for R50”
+* Achieved a **100% match rate** between viewership logs and user demographic data after cleaning and integration
 
-🛠️ Tools & Technologies Used
+---
 
-🧠 Miro – for project planning and workflow mapping
+## 📊 Key Insights
 
-📊 Excel – for data cleaning, preparation, and pivot table analysis
+### 📈 Channel Performance
 
-🐘 SQL – for querying structured data and extracting insights
+* Supersport Live generated the highest engagement
+* Total sessions: **1,662**
 
-🎨 Canva – for designing and presenting the final presentation
+### ⏰ Viewing Behaviour
 
-🎥 How to View
+* Identified peak viewing periods across different days
+* Noted lower engagement on specific days (low-traffic periods)
 
--📝Project Description - This File Shows The Objective And Aims Of The New CEO.
+### 🌍 Regional Distribution
 
--🧹Uncleaned Data - is available in CSV format within this repository(profile dataset).
+* Gauteng: **36.5%**
+* Western Cape: **18.5%**
+* KwaZulu-Natal: **10%**
+* Northern Cape, Free State, North West: **<9% combined**
 
--🧹Uncleaned Data - is available in CSV format within this repository(Viewership Dataset).
+### 👥 Audience Insights
 
--🧠 Miro Planning - This includes project goals, KPIs, filters, and design planning
+* Female audience underrepresented (~10%)
+* Opportunity to diversify content
 
--📅Gantt Charts - is available in PDF format within this repository.
+---
 
--💻SQL Code - Includes all queries used for data transformation and insights.
+## 💡 Recommendations
 
--✨Cleaned Data - is available in CSV format within this repository.
+### 📉 Low-Traffic Day Strategy
 
--📊Excel Pivot Table - is available in PDF format within this repository.
+* Promote Supersport highlights and talk shows
+* Repurpose live sports content into analysis shows
+* Maintain engagement when live matches are not available
 
--📽️Full presentation - is available in PDF format within this repository.
+---
+
+### 🌍 User Growth Strategy
+
+* Launch geo-targeted campaigns in underperforming regions:
+
+  * Northern Cape
+  * Free State
+  * North West
+* Offer free trials and local partnerships
+
+---
+
+### 👩 Audience Expansion
+
+* Introduce more local drama content (Africa Magic-style)
+* Aim to increase female user base
+
+---
+
+### 💰 Revenue & Retention Strategy
+
+* Introduce “Bright TV Family” package
+* Target Gauteng & Western Cape
+* Offer multi-screen deals
+* Example campaign:
+
+  > “Add 2 screens for R50”
+
+---
+
+## 📁 Project Structure
+
+* 📝 Project Description – objectives and business context
+* 🧹 Raw Data – CSV files (viewership & user profiles)
+* ✨ Cleaned Data – processed datasets
+* 💻 SQL Code – queries used for analysis
+* 📊 Excel Analysis – pivot tables and summaries (PDF)
+* 🧠 Miro Planning – workflow, KPIs, and design
+* 📅 Gantt Chart – project timeline
+* 📽️ Final Presentation – insights and recommendations
+
+---
+
+## 🚀 Outcome
+
+This project demonstrates the ability to:
+
+* Clean and integrate datasets
+* Perform SQL-based analysis
+* Generate actionable business insights
+* Communicate findings clearly through data storytelling
+
+---
+
+## 🔮 Future Improvements
+
+* Build an interactive Power BI dashboard
+* Develop a churn prediction model
+* Automate reporting pipelines
+
+
+
+
